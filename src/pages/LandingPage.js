@@ -5,7 +5,7 @@ export default function LandingPage() {
     <>
     <NavBar/>
       <section id="layanan">
-        <div className="container bg-red-500">
+        <div className="container">
           <div className="row mt-5">
             <div>Landing Page</div>
           </div>
