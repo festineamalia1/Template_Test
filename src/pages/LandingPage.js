@@ -7,7 +7,7 @@ export default function LandingPage() {
       <section id="layanan">
         <div className="container">
           <div className="row mt-5">
-            <div>Landing Page</div>
+            <div>...</div>
           </div>
         </div>
       </section>
