@@ -160,8 +160,8 @@ export default function NavBar() {
             </ul>
 
             <div className="flex flex-row gap-3">
-              <button className="bg-[#FFE492]  w-full rounded rounded-sm text-[18px]">Login</button>
-              <button className="bg-[#4F9CF9]  w-full rounded rounded-sm text-white text-nowrap text-lg">Try Whitepace free&nbsp;<ArrowForwardIcon sx={{ fontSize: 18 }}/></button>
+              <button className="bg-[#FFE492]  w-full rounded rounded-sm !text-sm px-3">Login</button>
+              <button className="bg-[#4F9CF9]  w-full rounded rounded-sm text-white text-nowrap !text-sm px-3">Try Whitepace free&nbsp;<ArrowForwardIcon sx={{ fontSize: 14 }}/></button>
             </div>
           </div>
         </div>

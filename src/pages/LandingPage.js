@@ -1,15 +1,12 @@
 import React, { useEffect, useState } from "react";
 import NavBar from "../components/NavBar";
+import Banner from "../components/BannerComponent";
 export default function LandingPage() {
   return (
     <>
-    <NavBar/>
-      <section id="layanan">
-        <div className="container">
-          <div className="row mt-5">
-            <div>...</div>
-          </div>
-        </div>
+      <NavBar />
+      <section id="banner" className="bg-[#043873]">
+        <Banner />
       </section>
     </>
   );
